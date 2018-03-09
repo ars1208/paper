@@ -1,6 +1,6 @@
 # Learning Unified Embedding for Apparel Recognition  
 ## ポイント  
-1. どんな論文か？
+1. どんな論文か？  
 アイテムをカテゴリごとに学習させるのではなく、画像全体で学習を行う
 2. 先行研究と比べてどこがすごいか？
 3. 技術や手法の要点は？
