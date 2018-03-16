@@ -1,6 +1,7 @@
 # Deep Fashion: Powering Robust Clothes Recognition  and Retrieval with Rich Annotations  
 ## ポイント  
 1. どんな論文か？  
+   DeepFashion(巨大なfashion dataset)の提供．また，データセットの強みを確認するためのFashionNetの作成．
 2. 先行研究と比べてどこがすごいか？
 3. 技術や手法の要点は？
 4. 検証方法は？
