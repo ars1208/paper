@@ -1,4 +1,4 @@
-# Deep Fashion: Powering Robust Clothes Recognition  and Retrieval with Rich Annotations  
+# Deep Fashion: Powering Robust Clothes Recognition  and Retrieval with Rich Annotations.  
 ## ポイント  
 1. どんな論文か？  
    DeepFashion(巨大なfashion dataset)の提供．また，データセットの強みを確認するためのFashionNetの作成．
