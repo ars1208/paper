@@ -6,7 +6,7 @@
    既存の囲碁プログラムに対して勝率99.8%  
    Monte-Carlo Tree Searchに教師あり学習と強化学習を組込む.
 3. 技術や手法の要点は？  
-   
+   value networkとpolicyを組み合わせたMonte-Carlo Tree Search 
 4. 検証方法は？  
    
 5. 議論はあるか？  
